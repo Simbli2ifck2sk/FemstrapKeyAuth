@@ -2,11 +2,8 @@
   "keys": [
     {
       "key": "ABC123",
-      "used": false
-    },
-    {
-      "key": "TEST-KEY-999",
-      "used": false
+      "used": false,
+      "hwid": null
     }
   ]
 }
